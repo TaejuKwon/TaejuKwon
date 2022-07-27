@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaejuKwon
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Computer vision, NLP, Deep Learning framwork structure.
+- 🌱 I’m currently learning Computer Vision, NLP, Deep Learning Framwork, Machine Learning.
 - 📫 How to reach me ksi350937@unist.ac.kr
 
 <!---
